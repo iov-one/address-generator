@@ -1,5 +1,7 @@
 # IOV Address Generator
 
+[![Build Status](https://travis-ci.com/iov-one/address-generator.svg?branch=master)](https://travis-ci.com/iov-one/address-generator)
+
 Generates addresses for the IOV blockchain.
 
 ## Prerequisites
